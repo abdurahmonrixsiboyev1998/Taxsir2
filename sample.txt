@@ -1,0 +1,19 @@
+Name: Abdurahmon
+Age: 25
+Occupation: Software Engineer
+
+Name: Shahboz
+Age: 20
+Occupation: Marketing Manager
+
+Name: Abduazim
+Age: 19
+Occupation: HR Specialist
+
+Name: Abdulloh
+Age: 23
+Occupation: Sales Representative
+
+Name: Abdulaziz
+Age: 22
+Occupation: Customer Service Representative
